@@ -16,6 +16,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.navigation.compose.rememberNavController
+import com.financeorganiser.navigation.Navigation
 import com.financeorganiser.ui.theme.FinanceOrganiserTheme
 
 class MainActivity : ComponentActivity() {
@@ -24,7 +25,7 @@ class MainActivity : ComponentActivity() {
 
         setContent {
             FinanceOrganiserTheme {
-
+                Navigation()
             }
         }
     }

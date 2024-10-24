@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinanceOrganiser</string>
+    <string name="log_in">Увійти</string>
+    <string name="create_account">Створити аккаунт</string>
+    <string name="use_app_without_login">Увійти без аккаунту</string>
+    <string name="welcome_string">Ласкаво просимо до Financial Organiser</string>
+</resources>
