@@ -1,0 +1,1 @@
+# Project was created to learn native Android development
